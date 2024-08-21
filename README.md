@@ -8,4 +8,3 @@ Facebook pages of 10 Thai fashion and cosmetics retail sellers. Posts of a diffe
 
 # Variabel Table
 
-
