@@ -30,7 +30,7 @@ Facebook pages of 10 Thai fashion and cosmetics retail sellers. Posts of a diffe
 - In this project I have implemented Kmeans Clustering.
 - Use minmax and Standard scale to normalize data and choose minmax for nomralization because clustering result were better through that
 - Use Elbow method to find the best number of cluster in Kmeans
-- based on elbow method number of clusteres equals 2 is the best value.
+- Based on elbow method number of clusteres equals 2 is the best value.
 - Analyse the result of Kmeans Clusetring with silhouette method.
 - Based on Silhoute method average score equals 0.88
 - Analyse clustering by grouping clusters based on cluster's label
